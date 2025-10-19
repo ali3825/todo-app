@@ -4,7 +4,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/ali3825/todo-app?color=green)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ali3825/todo-app?color=orange)
 ![License](https://img.shields.io/github/license/ali3825/todo-app?color=lightblue)
-![GitHub Pages](https://img.shields.io/badge/Live%20Demo-View-blue)
+[![GitHub Pages](https://img.shields.io/badge/Live%20Demo-View-blue)](https://ali3825.github.io/todo-app/)
+
 
 A **modern and interactive To-Do web application** built with **HTML, CSS, and JavaScript**.  
 Users can add tasks, mark them as complete, mark tasks as high priority, and delete tasks. The app also has a **modern gradient UI** for a professional look.
