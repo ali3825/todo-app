@@ -41,7 +41,7 @@ Check out the live demo here:
 
 ## 📸 Screenshots
 *(Optional: Add a screenshot of your app here)*  
-![To-Do App Screenshot](screenshot.png)
+![To-Do App Screenshot](todo.png)
 
 ---
 
