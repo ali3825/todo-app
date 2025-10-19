@@ -23,23 +23,21 @@ Users can add tasks, mark them as complete, mark tasks as high priority, and del
 
 ---
 
+
+
+## 👨‍💻 Contributors
+- [Ali3825](https://github.com/ali3825)
+
+
+---
+
 ## 🌐 Demo
 Check out the live demo here:  
 [Smart To-Do App Live](https://ali3825.github.io/todo-app/)
 
 ---
 
-## 💻 Installation / Usage
-1. Clone the repository:  
-```bash
-git clone https://github.com/ali3825/todo-app.git
 
-
-
-Open `index.html` in your browser.  
-Start adding your tasks!
-
----
 
 ## 📸 Screenshots
 *(Optional: Add a screenshot of your app here)*  
@@ -59,12 +57,13 @@ This project is open-source and free to use.
 
 ---
 
-## 👨‍💻 Contributors
-- [Ali3825](https://github.com/ali3825)
+
+## 💻 Installation / Usage
+1. Clone the repository:  
+```bash
+git clone https://github.com/ali3825/todo-app.git
+
+Open `index.html` in your browser.  
+Start adding your tasks!
 
 ---
-
-✅ **This version includes:**
-- Badges for **top language**, **repo size**, **last commit**, **license**, and **live demo**  
-- Emojis for sections to make it visually appealing  
-- Clear headings and structure
